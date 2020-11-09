@@ -1,0 +1,23 @@
+{
+  "name": "calebs-notes",
+  "version": "1.0.0",
+  "description": "A digital garden for public note-taking.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve"
+  },
+  "author": "Caleb Figgers",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.24.68",
+    "gatsby-plugin-google-analytics": "^2.4.0",
+    "gatsby-theme-andy": "^0.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-toastify": "^6.0.9",
+    "tailwindcss": "^1.8.13"
+  }
+}
