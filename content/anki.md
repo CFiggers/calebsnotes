@@ -1,8 +1,16 @@
 ---
 title: Anki
-updated: 2020-10-27
+updated: 2020-11-09
 ---
+
+### What is Anki?
+
+**Anki** is a computer program (and web/iOS/Android App) for doing [[Spaced Repetition]]. This type of software is called [[Spaced Repetition Software]]. I use it for memorizing [[Hebrew]] and [[Greek]] vocabulary words and grammar flashcards.
+
+The Android and PC/Mac apps are free to download and use. The iOS app is paid only, and is the main source of income that the developer uses to support himself.
+
+Here's the link: https://apps.ankiweb.net/
 
 ---
 
-<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-11-09</font></sub></sup>

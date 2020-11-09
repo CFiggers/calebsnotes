@@ -1,7 +1,6 @@
 ---
-title: Protestantism
+title: Foucault's Pendulum
 updated: 2020-11-09
-aliases: ["Protestant"]
 ---
 
 ---

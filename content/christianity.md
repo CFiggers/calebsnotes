@@ -1,7 +1,7 @@
 ---
-title: Protestantism
+title: Christianity
 updated: 2020-11-09
-aliases: ["Protestant"]
+aliases: ["Christian"]
 ---
 
 ---

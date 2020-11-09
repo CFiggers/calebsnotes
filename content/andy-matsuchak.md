@@ -1,7 +1,6 @@
 ---
-title: Protestantism
+title: Andy Matsuchak
 updated: 2020-11-09
-aliases: ["Protestant"]
 ---
 
 ---

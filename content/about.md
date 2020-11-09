@@ -9,6 +9,7 @@ Here's some stuff I like to [[think]] and [[write]] about:
 
 - [[Category Theory]]
 - [[Programming]]
+- [[Personal Knowledge Management]]
 - [[Theology]]
 - [[Philosophy]]
 - [[Surviving Seminary]]
