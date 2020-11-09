@@ -1,9 +1,10 @@
 ---
 title: Aesthetics
-updated: 9999-99-99
+updated: 2020-12-09
 ---
 
+### What is Aesthetics?
 
 ---
 
-<sup><sub><font color="#a6a6a6">updated: 9999-99-99</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-11-09</font></sub></sup>
