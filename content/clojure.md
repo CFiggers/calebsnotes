@@ -5,7 +5,11 @@ updated: 2020-11-12
 
 ### What is Clojure?
 
-**Clojure** is a [[Programming Language]] created by [[Rich Hickey]]. It is a contemporary [[LISP]], and it uses [[LISP]]-like synatax. It is [[Dynamically Typed]], [[Functional]], and enforces [[Immutable Data Structures]]. It compiles to [[Java]] Bytecode that runs on the [[Java Virtual Machine (JVM)]]. **Clojure** code is [[Homoiconic]], which enables [[Macros]] as a core language feature.
+**Clojure** is a [[Programming Language]] created by [[Rich Hickey]]. It is a contemporary [[Lisp]], and it uses [[Lisp]]-like synatax. It is [[Dynamically Typed]], [[Functional]], and enforces [[Immutable Data Structures]]. It compiles to [[Java]] Bytecode that runs on the [[Java Virtual Machine (JVM)]]. **Clojure** code is [[Homoiconic]], which enables [[Macros]] as a core language feature.
+
+<!--Here's a sample of **Clojure** code:
+
+-->
 
 ---
 
