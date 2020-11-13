@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { Styled, ThemeProvider, Flex, Box, jsx } from "theme-ui";
+import Prism from "@theme-ui/prism";
 
 import useWindowWidth from "../../../node_modules/gatsby-theme-andy/src/utils/useWindowWidth";
 import components from "../../../node_modules/gatsby-theme-andy/src/components/MdxComponents";
@@ -26,10 +27,15 @@ const BrainNote = ({ note }) => {
     <components.a {...props} popups={popups} noPopups={width < 768} />
   );
 
+  const SyntaxHighlighting = {
+    pre: ({ children }) => <>{children}</>,
+    code: Prism,
+  };
+
   return (
     <ThemeProvider
       theme={theme}
-      components={{ ...components, a: AnchorTagWithPopups }}
+      components={{ ...components, a: AnchorTagWithPopups, SyntaxHighlighting }}
     >
       <div sx={{ flex: "1" }}>
         <Flex sx={{ flexDirection: "row" }}>

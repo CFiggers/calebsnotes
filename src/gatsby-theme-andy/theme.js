@@ -103,9 +103,10 @@ export default {
     pre: {
       fontFamily: "monospace",
       overflowX: "auto",
-      code: {
-        color: "inherit",
-      },
+      // code: {
+      //   color: "inherit",
+      // },
+      bg: "accent",
     },
     code: {
       fontFamily: "monospace",
@@ -126,9 +127,6 @@ export default {
     },
     img: {
       maxWidth: "100%",
-    },
-    pre: {
-      bg: "accent",
     },
   },
 };

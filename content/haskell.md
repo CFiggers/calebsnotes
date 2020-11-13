@@ -9,7 +9,7 @@ updated: 2020-11-12
 
 Here's an example of **Haskell** code:
 
-```
+```haskell
 module Main where
 
 main :: IO ()
