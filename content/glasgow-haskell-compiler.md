@@ -1,7 +1,6 @@
 ---
-title: Irresistable Grace
+title: Glasgow Haskell Compiler
 updated: 2020-11-24
-aliases: ["Overwhelmingly Called"]
 ---
 
 ---

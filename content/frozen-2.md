@@ -1,7 +1,6 @@
 ---
-title: Irresistable Grace
+title: Frozen 2
 updated: 2020-11-24
-aliases: ["Overwhelmingly Called"]
 ---
 
 ---

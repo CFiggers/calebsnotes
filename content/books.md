@@ -1,6 +1,6 @@
 ---
 title: Books
-updated: 2020-11-09
+updated: 2020-11-24
 ---
 
 - [[The English Patient]]
@@ -9,4 +9,4 @@ updated: 2020-11-09
 
 ---
 
-<sup><sub><font color="#a6a6a6">updated: 2020-11-09</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-11-24</font></sub></sup>

@@ -1,6 +1,6 @@
 ---
 title: Airtable
-updated: 2020-11-09
+updated: 2020-11-24
 ---
 
 ### What is Airtable?
@@ -13,4 +13,4 @@ Here's the link: <a href="https://airtable.com/invite/r/09dFLJY9" target="_blank
 
 ---
 
-<sup><sub><font color="#a6a6a6">updated: 2020-11-09</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-11-24</font></sub></sup>

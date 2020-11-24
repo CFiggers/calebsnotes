@@ -1,7 +1,6 @@
 ---
-title: Irresistable Grace
+title: Chemistry
 updated: 2020-11-24
-aliases: ["Overwhelmingly Called"]
 ---
 
 ---

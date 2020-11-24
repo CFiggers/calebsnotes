@@ -1,6 +1,6 @@
 ---
 title: About Me
-updated: 2020-11-09
+updated: 2020-11-24
 aliases: ["Caleb"]
 ---
 
@@ -28,4 +28,4 @@ You can find me (if you really want to) on:
 
 ---
 
-<sup><sub><font color="#a6a6a6">updated: 2020-11-09</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-11-24</font></sub></sup>

@@ -1,7 +1,6 @@
 ---
-title: Irresistable Grace
+title: My Philosophy of Learning
 updated: 2020-11-24
-aliases: ["Overwhelmingly Called"]
 ---
 
 ---
