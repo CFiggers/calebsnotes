@@ -1,7 +1,7 @@
 ---
-title: Jesus Christ
+title: Idolatry
 updated: 2020-11-29
-aliases: ["Jesus"]
+aliases: ["replace him", "replace God"]
 ---
 
 ---

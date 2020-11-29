@@ -1,7 +1,7 @@
 ---
-title: Jesus Christ
+title: The Gospel
 updated: 2020-11-29
-aliases: ["Jesus"]
+aliases: ["The Gospel", "the message"]
 ---
 
 ---

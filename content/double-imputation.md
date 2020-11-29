@@ -1,7 +1,7 @@
 ---
-title: Jesus Christ
+title: Double Imputation
 updated: 2020-11-29
-aliases: ["Jesus"]
+aliases: ["becomes theirs too"]
 ---
 
 ---

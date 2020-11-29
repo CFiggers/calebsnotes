@@ -1,7 +1,7 @@
 ---
-title: Jesus Christ
+title: God the Son
 updated: 2020-11-29
-aliases: ["Jesus"]
+aliases: ["who he claimed to be", "God's own Son"]
 ---
 
 ---

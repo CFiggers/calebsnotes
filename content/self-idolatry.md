@@ -1,7 +1,6 @@
 ---
-title: Jesus Christ
+title: Self-Idolatry
 updated: 2020-11-29
-aliases: ["Jesus"]
 ---
 
 ---

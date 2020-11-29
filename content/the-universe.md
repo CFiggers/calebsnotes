@@ -1,7 +1,7 @@
 ---
-title: Jesus Christ
+title: The Universe
 updated: 2020-11-29
-aliases: ["Jesus"]
+aliases: ["Universe"]
 ---
 
 ---

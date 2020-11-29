@@ -1,7 +1,7 @@
 ---
-title: Jesus Christ
+title: Repentance
 updated: 2020-11-29
-aliases: ["Jesus"]
+aliases: ["throw it away"]
 ---
 
 ---
