@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Cateogry Theory
+title: An Introduction to Category Theory
 updated: 2020-11-29
 ---
 

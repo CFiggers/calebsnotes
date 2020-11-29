@@ -1,5 +1,5 @@
 ---
-title: "Category Theory: Some Practical Examples"
+title: "Category Theory: Some More Complicated Stuff"
 updated: 2020-11-29
 ---
 

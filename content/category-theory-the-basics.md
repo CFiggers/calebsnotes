@@ -1,5 +1,5 @@
 ---
-title: Category Theory The Basics
+title: "Category Theory: The Basics"
 updated: 2020-11-29
 ---
 
