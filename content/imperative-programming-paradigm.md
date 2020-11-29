@@ -1,7 +1,6 @@
 ---
-title: Labels
+title: Imperative Programming Paradigm
 updated: 2020-11-29
-aliases: ["Label"]
 ---
 
 ---

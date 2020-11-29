@@ -1,7 +1,7 @@
 ---
-title: Labels
+title: Problem Solving
 updated: 2020-11-29
-aliases: ["Label"]
+aliases: ["solving problems"]
 ---
 
 ---
