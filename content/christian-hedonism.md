@@ -1,7 +1,7 @@
 ---
-title: Sin
+title: Christian Hedonism
 updated: 2020-11-29
-aliases: ["crimes"]
+aliases: ["very, very good"]
 ---
 
 ---

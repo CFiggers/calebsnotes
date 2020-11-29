@@ -31,11 +31,11 @@ This is _irrational_&mdash;that means it defies [[Reason]]. It is like a leaf ha
 
 [[God]] does not deserve our hate. He deserves our love. We are in the wrong.
 
-[[The Bible]] teaches that [[God]] would uphold [[Justice]] if he [[infinitely punished]] Sinners (i.e. us) forever. He is infinitely [[good]], making offense against him infinitely bad.
+[[The Bible]] teaches that [[God]] would uphold [[Justice]] if he [[infinitely punished]] Sinners (i.e. us) forever. He is infinitely [[good]], making offense against him infinitely [[bad]].
 
 But [[God]] _delights_ in being merciful. He knows that [[Sin]] is a sickness, and he loves to heal people who are sick.
 
-This presents a quandary. [[Justice]] is clear: those who hate and [[replace God]] deserve to get what they want—which is to be cut off from the source of all [[good]] and spend eternity growing more and more [dead](/hell), like a flower that hates the sun.
+This presents a quandary. [[Justice]] is clear: those who hate and [[replace God]] deserve to _get what they want_—which is to be cut off from the source of all [[good]] and spend eternity growing more and more [dead](/hell), like a flower that hates the sun.
 
 Can [[God]] heal sinners AND uphold [[Justice]]?
 
@@ -45,9 +45,9 @@ The shocking resolution to this quandary is "Yes!"&mdash;but not in a way anyone
 
 [[Jesus Christ]] was a human man who lived 2,000 years ago in Israel. He was (and is) [[God's own Son]], who is himself [[God]]. [[God the Father]] sent him from [[Heaven]] to make a way for Sinners (that's us) to be [[saved]] from [[Sin]] and [[Death]].
 
-[[The Bible]] teaches that [[Jesus]] took full punishment for [[Sin]] on himself to satisfy God's [[Justice]]. And he lived a perfect, Sinless life to fulfill the righteousness that we failed to live up to. He died on a Roman cross, betrayed by his own people, naked, ashamed, and alone.
+[[The Bible]] teaches that [[Jesus]] took full punishment for [[Sin]] on himself to satisfy [[God]]'s [[Justice]]. And he lived a perfect, Sin-less life to fulfill the righteousness that we failed to live up to. He [[died on a Roman cross]], betrayed by his own people, naked, ashamed, and alone.
 
-Just like [[God]] does not deserve our hatred, [[Jesus]] did not deserve to be punished for [[Sin]]. But he willingly took that punishment in order to pay the rightful price of [[Sin]] in the place of Sinners (that's us) who actually earned it.
+Just like [[God]] does not deserve our hatred, [[Jesus]] did not deserve to be punished for [[Sin]]. But he willingly and knowingly took that punishment in order to pay the rightful price of [[Sin]] in the place of Sinners (that's us) who actually earned it.
 
 On the third day after his death, [[God]] raised [[Jesus]] back to life. The [[Bible]]'s word for this is "[[Resurrection]]." This proved [[Jesus]]' innocence, confirmed his [[Identity]] as [[God]], and declared him with power to be [[who he claimed to be]]. [[Jesus]] ascended into [[Heaven]] and took the ruling seat over the entire [[Universe]]. He's still there today.
 
@@ -61,11 +61,11 @@ This is a spiritual [[Resurrection]] exactly as miraculous as Jesus' own rising 
 
 [[The Bible]] teaches that Sinners&mdash;that means anyone who has this terminal disease which makes them hate [[God]] and _want_ to never get better&mdash;have exactly **one hope** to not [[die]] eternally for good:
 
-[[The Bible]] teaches that YOU need to believe that [[Jesus]] was telling the truth. You need to admit your [[Sin]], reject it, and [[throw it away]]. You need to ask [[God]] to give you [[Faith]] and make your life united to [[Jesus]]' life. You need to submit to [[Jesus]] as your King. This is the **one hope** for all people everywhere.
+[[The Bible]] teaches that YOU need to believe that [[Jesus]] was telling the truth. You need to admit your [[Sin]], reject it, and [[throw it away]]. You need to ask [[God]] to give you [[Faith]] and make your life united to [[Jesus]]' life. You need to submit to [[Jesus]] as your King. If you do, then his payment covers your [[crimes]], you are no longer [[God]]'s enemy, and you will [[live forever]] in [[Heaven]] with him (this is a [[very, very good]] way to spend eternity). This [[Gospel]] (which means "good news") is the **one hope** for _all people everywhere_.
 
 Life is very short. And it only ends one of two ways: either you [[die]], or [[Jesus]] comes back first. Either way, the window of opportunity to accept this hope&mdash;that is, to believe in this [[Gospel]] and be [[saved]] from [[Sin]] and [[Death]]&mdash;is closing awfully soon. After that point, it will be too late. [[Death]] forever will be all that's left.
 
-[[God]] will serve [[Justice]] ultimately&mdash;even foolish humans don't just let murderers go free. Neither will [[God]] just forget the wrong we do, to him and to each other.
+Make no mistake: [[God]] will serve [[Justice]] ultimately. Even foolish humans don't just let murderers go free. Neither will [[God]] just forget the wrong we do, to him and to each other.
 
 Either [[Jesus]]' life and sacrificial death is covering your [[Sin]], or [[Sin]] is still on you and you are in real [danger](/hell). Time _will_ tell. I hope you won't wait!
 
