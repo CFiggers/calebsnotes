@@ -10,7 +10,7 @@ const Footer = ({ references }) => {
       <p sx={{ m: 0, fontSize: 1 }}>
         I'd love to hear from you! You can{" "}
         <Styled.a
-          sx={{ textDecoration: "underline", color: "#077b08" }}
+          sx={{ textDecoration: "underline", color: "#5c1cd8" }}
           href="https://twitter.com/messages/compose?recipient_id=1236760268727889921"
           target="_blank"
         >
@@ -18,14 +18,14 @@ const Footer = ({ references }) => {
         </Styled.a>{" "}
         on Twitter or{" "}
         <Styled.a
-          sx={{ textDecoration: "underline", color: "#077b08" }}
+          sx={{ textDecoration: "underline", color: "#5c1cd8" }}
           href="mailto:cdfiggers@gmail.com"
         >
           email me
         </Styled.a>{" "}
         any time. If you want, you can{" "}
         <Styled.a
-          sx={{ textDecoration: "underline", color: "#077b08" }}
+          sx={{ textDecoration: "underline", color: "#5c1cd8" }}
           href="https://ko-fi.com/calebfiggers"
           target="_blank"
         >
