@@ -8,23 +8,29 @@ export default ({ siteMetadata }) => (
       <Box
         py={2}
         px={3}
-        sx={{ borderBottom: "1px solid", borderColor: "gray", width: 500 }}
+        sx={{
+          borderBottom: "1px solid",
+          borderColor: "black",
+          width: 150,
+          backgroundColor: "#18295a",
+        }}
       >
         <Link
           to="/"
-          sx={{ fontWeight: "bold", color: "text", textDecoration: "none" }}
+          sx={{ fontWeight: "bold", color: "#8ce1fb", textDecoration: "none" }}
         >
           {siteMetadata.title}
         </Link>
       </Box>
       <Box
         py={2}
-        px={3}
+        px={310}
         sx={{
           borderBottom: "1px solid",
-          borderColor: "gray",
+          borderColor: "black",
           flex: "1",
           pr: 4,
+          backgroundColor: "#18295a",
         }}
       >
         <Link
@@ -34,9 +40,10 @@ export default ({ siteMetadata }) => (
             fontWeight: "bold",
             textDecoration: "none",
             justifyContent: "flex-end",
+            color: "#ffd966",
           }}
         >
-          ❤
+          Support&nbsp;❤
         </Link>
       </Box>
     </Flex>

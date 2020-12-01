@@ -4,7 +4,7 @@ export default {
     "text-light": "#718096",
     background: "#fff",
     primary: "#3182ce",
-    links: "#3182ce",
+    links: "#008df1",
     gray: "#dadada",
     accent: "#fafafc",
   },
@@ -49,7 +49,7 @@ export default {
       fontWeight: "body",
     },
     h1: {
-      color: "text",
+      color: "#612fc1",
       fontFamily: "heading",
       lineHeight: "heading",
       fontWeight: "heading",
