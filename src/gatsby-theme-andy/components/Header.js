@@ -9,7 +9,7 @@ export default ({ siteMetadata }) => (
         py={2}
         px={3}
         sx={{
-          borderBottom: "1px solid",
+          borderBottom: "2px solid",
           borderColor: "black",
           width: 150,
           backgroundColor: "#18295a",
@@ -26,7 +26,7 @@ export default ({ siteMetadata }) => (
         py={2}
         px={310}
         sx={{
-          borderBottom: "1px solid",
+          borderBottom: "2px solid",
           borderColor: "black",
           flex: "1",
           pr: 4,

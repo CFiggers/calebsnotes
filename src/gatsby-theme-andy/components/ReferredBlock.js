@@ -15,7 +15,7 @@ export default ({ references }) => {
     return (
       <>
         <Heading as="h4" color="#18295a" sx={{ fontSize: "18px" }}>
-          This Page Referenced in...
+          This Page is Referenced in...
         </Heading>
         <div sx={{ mb: 2 }}>
           {references.map((reference) => {
