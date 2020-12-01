@@ -11,7 +11,7 @@ export default ({ siteMetadata }) => (
         sx={{
           borderBottom: "2px solid",
           borderColor: "black",
-          width: 150,
+          width: 456,
           backgroundColor: "#18295a",
         }}
       >
@@ -24,12 +24,11 @@ export default ({ siteMetadata }) => (
       </Box>
       <Box
         py={2}
-        px={310}
+        px={3}
         sx={{
           borderBottom: "2px solid",
           borderColor: "black",
-          flex: "1",
-          pr: 4,
+          width: 120,
           backgroundColor: "#18295a",
         }}
       >
@@ -46,6 +45,18 @@ export default ({ siteMetadata }) => (
           Support&nbsp;❤
         </Link>
       </Box>
+      <Box
+        py={2}
+        px={1}
+        sx={{
+          borderBottom: "2px solid",
+          borderColor: "black",
+          flex: "1",
+          pr: 4,
+          backgroundColor: "#18295a",
+          width: 100,
+        }}
+      ></Box>
     </Flex>
   </header>
 );
