@@ -11,7 +11,7 @@ export default ({ siteMetadata }) => (
         sx={{
           borderBottom: "2px solid",
           borderColor: "black",
-          width: 456,
+          width: 426,
           backgroundColor: "#18295a",
         }}
       >
@@ -28,7 +28,7 @@ export default ({ siteMetadata }) => (
         sx={{
           borderBottom: "2px solid",
           borderColor: "black",
-          width: 120,
+          width: 150,
           backgroundColor: "#18295a",
         }}
       >
