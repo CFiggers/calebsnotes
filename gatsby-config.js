@@ -4,8 +4,9 @@ module.exports = {
     siteUrl: "https://calebsnotes.com",
     url: "https://calebsnotes.com",
     description:
-      "Hi, I'm Caleb. These are my notes. I hope you find them helpful!",
-    image: "/images/CalebsNotes Screenshot 2020-11-30 222315_crop3.PNG",
+      "Hi, I'm Caleb. I make notes about things. I hope you find them helpful!",
+    image:
+      "https://raw.githubusercontent.com/CFiggers/images-calebsnotes/master/CalebsNotes%20Screenshot%202020-11-30%20222315_crop3.PNG",
     twitterUsername: "@CalebFiggers",
   },
   plugins: [

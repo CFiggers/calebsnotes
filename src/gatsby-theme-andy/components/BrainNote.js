@@ -39,7 +39,13 @@ const BrainNote = ({ note }) => {
       theme={theme}
       components={{ ...components, a: AnchorTagWithPopups, SyntaxHighlighting }}
     >
-      <SEO title={note.title}></SEO>
+      <SEO
+        title={
+          note.title == "Home"
+            ? "Caleb's Notes on Life, the Universe, and Everything"
+            : note.title + " - Caleb's Notes"
+        }
+      ></SEO>
       <div sx={{ flex: "1" }}>
         <Flex sx={{ flexDirection: "row" }}>
           <Box sx={{ width: 500 }}>
