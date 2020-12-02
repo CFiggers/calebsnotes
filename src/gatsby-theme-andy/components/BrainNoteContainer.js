@@ -129,7 +129,7 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
     >
       <Helmet>
         <meta charSet="utf-8" />
-        <meta
+        {/* <meta
           property="og:title"
           content="Caleb's Notes on Life, the Universe, and Everything"
         />
@@ -141,7 +141,7 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
         <meta
           property="og:image"
           content="https://raw.githubusercontent.com/CFiggers/images-calebsnotes/master/CalebsNotes%20Screenshot%202020-11-30%20222315_crop3.PNG"
-        />
+        /> */}
       </Helmet>
       <Header siteMetadata={siteMetadata} />
 
