@@ -17,7 +17,7 @@ const SEO = ({ title, description, image, article }) => {
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
-    image: `${siteUrl}${image}` || defaultImage,
+    image: defaultImage, // Fix this later to allow dynamic image per page
     url: `${siteUrl}${pathname}`,
   };
   return (
