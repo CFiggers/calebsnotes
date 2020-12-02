@@ -1,6 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: "Caleb's Notes",
+    siteUrl: "https://calebsnotes.com",
+    url: "https://calebsnotes.com",
+    description:
+      "Hi, I'm Caleb. These are my notes. I hope you find them helpful!",
+    image: "/images/CalebsNotes Screenshot 2020-11-30 222315_crop3.PNG",
+    twitterUsername: "@CalebFiggers",
   },
   plugins: [
     {

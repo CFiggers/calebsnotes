@@ -10,6 +10,7 @@ import { Styled, jsx, Flex, Box } from "theme-ui";
 
 import useWindowWidth from "../../../node_modules/gatsby-theme-andy/src/utils/useWindowWidth.js";
 import Header from "./Header";
+
 import BrainNote from "./BrainNote";
 import { LinkToStacked } from "../../../node_modules/gatsby-theme-andy/src/components/CustomLinkToStacked.js";
 
@@ -128,15 +129,19 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
     >
       <Helmet>
         <meta charSet="utf-8" />
-        <meta property="og:title" content="Caleb's Notes" key="ogtitle" />
         <meta
-          property="og:Description"
-          content="Hi, I'm Caleb. I make notes about stuff."
-          key="ogdesc"
+          property="og:title"
+          content="Caleb's Notes on Life, the Universe, and Everything"
         />
-        <title>
-          {note.title} - {siteMetadata.title}
-        </title>
+        <meta
+          property="og:description"
+          content="Hi, I'm Caleb. I make notes about stuff."
+        />
+        <meta property="og:url" content="calebsnotes.com" />
+        <meta
+          property="og:image"
+          content="https://raw.githubusercontent.com/CFiggers/images-calebsnotes/master/CalebsNotes%20Screenshot%202020-11-30%20222315_crop3.PNG"
+        />
       </Helmet>
       <Header siteMetadata={siteMetadata} />
 

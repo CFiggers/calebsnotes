@@ -6,6 +6,8 @@ import Prism from "@theme-ui/prism";
 import useWindowWidth from "../../../node_modules/gatsby-theme-andy/src/utils/useWindowWidth";
 import components from "../../../node_modules/gatsby-theme-andy/src/components/MdxComponents";
 import Footer from "./Footer";
+import SEO from "../../components/seo.js";
+
 import Popover from "../../../node_modules/gatsby-theme-andy/src/components/Popover";
 import ShareButton from "./ShareButton";
 
@@ -37,6 +39,7 @@ const BrainNote = ({ note }) => {
       theme={theme}
       components={{ ...components, a: AnchorTagWithPopups, SyntaxHighlighting }}
     >
+      <SEO title={note.title}></SEO>
       <div sx={{ flex: "1" }}>
         <Flex sx={{ flexDirection: "row" }}>
           <Box sx={{ width: 500 }}>
