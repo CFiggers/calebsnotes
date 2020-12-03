@@ -1,6 +1,7 @@
 ---
-title: Data Analysis
+title: Task Management
 updated: 2020-12-03
+aliases: ["Task"]
 ---
 
 ---
