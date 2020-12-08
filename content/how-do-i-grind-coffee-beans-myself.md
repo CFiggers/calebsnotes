@@ -20,13 +20,13 @@ Roasted coffee beans are very brittle. That means that a coffee grinder works by
 
 This is the second most important feature of a good grinder.
 
-Precision is a related concept to consistency, but they are distinct components of a good grinder. Consistency describes how much "variation" there is in the final grind profile. Precision describes how _specific_ you can be when setting the grind target. A lot of electric grinders (especially the less expensive kind) have "stepped" grind settings&emdash;for example, 1 through 10, or "Extra Fine" through "Extra Course." But what happens if the "sweet spot" for [[your particular beans and particular brew method]] lies in between two settings? On a stepped grinder, you usually don't have a choice.
+Precision is a related concept to consistency, but they are distinct components of a good grinder. Consistency describes how much "variation" there is in the final grind profile. Precision describes how _specific_ you can be when setting the grind target. A lot of electric grinders (especially the less expensive kind) have "stepped" grind settings&mdash;for example, 1 through 10, or "Extra Fine" through "Extra Course." But what happens if the "sweet spot" for [[your particular beans and particular brew method]] lies in between two settings? On a stepped grinder, you usually don't have a choice.
 
 That's why some higher-end grinders are "stepless" or "continuous." That means you can pick a grind setting anywhere on the spectrum between coarse and fine, with no pre-determined settings that you have to stop at.
 
 ### Quick Grind
 
-This is more about convenience than taste&emdash;it's just a hassle to have a coffee grinder that's slow. A lot of the time, your coffee routine will be a recurring part of your week, if not every day. An extra minute or two might not seem like much, but over the course of a month that can add up. It can also be a psychological discouragement if you know that the grinding process is tedious and slow (but maybe that's a benefit, if you know you drink too much coffee and want to cut back!).
+This is more about convenience than taste&mdash;it's just a hassle to have a coffee grinder that's slow. A lot of the time, your coffee routine will be a recurring part of your week, if not every day. An extra minute or two might not seem like much, but over the course of a month that can add up. It can also be a psychological discouragement if you know that the grinding process is tedious and slow (but maybe that's a benefit, if you know you drink too much coffee and want to cut back!).
 
 ### Cool Grind
 

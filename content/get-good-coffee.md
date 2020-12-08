@@ -9,7 +9,7 @@ The most important part of making good coffee is the quality of the beans/ground
 
 ### What makes coffee good?
 
-Lots of factors go into the quality of coffee beans&emdash;there's a whole industry behind it, actually. For the home coffee game, lots of those factors are of vanishing importance&emdash;things like country of origin and growing altitude and roast profile will have minimal effects on the tastiness of your home-brewed cup.
+Lots of factors go into the quality of coffee beans&mdash;there's a whole industry behind it, actually. For the home coffee game, lots of those factors are of vanishing importance&mdash;things like country of origin and growing altitude and roast profile will have minimal effects on the tastiness of your home-brewed cup.
 
 For the home coffee game, the most important factor is **age**. Get coffee beans **as freshly roasted as you possibly can.** After that, experiment with different roast categories (Light, Medium, and Dark) to find one that works for you.
 

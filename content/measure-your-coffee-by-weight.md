@@ -9,7 +9,7 @@ The whole point of measuring coffee is to get the recipe right. The recipe is ri
 
 ### Why is weight a more accurate measure than volume?
 
-The **density** of coffee can vary _a lot_ from bean to bean. Tons of things affect the density of the coffee&emdash;from the specific breed of the coffee plant to the altitude that the coffee was grown at. Variable density means that a single "scoop" or other _volumetric_ measurement has quite a wide margin of error from sample to sample.
+The **density** of coffee can vary _a lot_ from bean to bean. Tons of things affect the density of the coffee&mdash;from the specific breed of the coffee plant to the altitude that the coffee was grown at. Variable density means that a single "scoop" or other _volumetric_ measurement has quite a wide margin of error from sample to sample.
 
 For the record, measuring by weight also varies between samples. But it tends to vary less, since the same _weight_ of coffee tends to have similar amounts of tasty stuff, even if that means twelve beans on one side and eight on the other.
 

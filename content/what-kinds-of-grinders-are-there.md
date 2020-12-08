@@ -11,7 +11,7 @@ Coffee grinders basically come in three types:
 
 ### Spinning Blade Grinders
 
-**Spinning blade grinders** are common and inexpensive, but the grounds they produce are really inconsistent. This is because they essentially work by "pulverizing" the coffee beans, producing a wide spread from "fine" to "coarse" in the final grind. There isn't a way to control consistency with a spinning blade grinder&emdash;no matter how nice it is. I don't recommend spinning blade grinders for most people trying to make good coffee at home.
+**Spinning blade grinders** are common and inexpensive, but the grounds they produce are really inconsistent. This is because they essentially work by "pulverizing" the coffee beans, producing a wide spread from "fine" to "coarse" in the final grind. There isn't a way to control consistency with a spinning blade grinder&mdash;no matter how nice it is. I don't recommend spinning blade grinders for most people trying to make good coffee at home.
 
 ### Hand-Held Burr Grinders
 
