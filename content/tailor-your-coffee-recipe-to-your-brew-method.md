@@ -29,7 +29,7 @@ But here's a good place to start: many coffee guides recommend brewing at a **1:
 
 \* One "cup" of coffee equates to ~4 fluid oz.
 
-Remember that **immersion** [[brew methods]] generally need a bit more coffee than percolation. If you're using an immersion method, try switching to 1/15 instead.
+Remember that **immersion** [[brew methods]] generally need a bit more coffee than percolation. If you're using an immersion method, try switching to a 1:15 ratio instead.
 
 ---
 

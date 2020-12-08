@@ -14,7 +14,11 @@ You should try different brew methods for a few reasons:
 
 ### What brewing methods are there?
 
-As mentioned on the [[Tailor Your Coffee Recipe]] page, there are two basic brew methods: **percolation** and **immersion**. _Percolation_ includes any brewing method where the grounds stay in one place and the water runs through the grounds throughout the brew. _Immersion_ means any brewing method where the grounds and the water hang out together for a while before you separate them. Here's some examples of each:
+As mentioned on the [[Tailor Your Coffee Recipe]] page, there are two basic brew methods: **percolation** and **immersion**.
+
+_Percolation_ includes any brewing method where the grounds stay in one place and the water runs through the grounds throughout the brew. _Immersion_ means any brewing method where the grounds and the water hang out together for a while before you separate them.
+
+Here's some examples of each:
 
 - Percolation
   - Most simple electric coffee makers
