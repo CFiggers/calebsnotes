@@ -5,7 +5,7 @@ updated: 2020-12-08
 
 ### So, how much does all of this cost?
 
-<!-- prettier-ignore -->Depending on your [[brew method of choice]], making good coffee at home costs around $120-150 to get started (~$50 for a quality hand grinder, ~$50 for brewing equipment, ~$20 for misc. odds and ends&mdash;plus, of course, [[the coffee itself]]).
+Depending on your [[brew method of choice]], making good coffee at home costs around $120-150 to get started (~$50 for a quality hand grinder, ~$50 for brewing equipment, ~$20 for misc. odds and ends&mdash;plus, of course, [[the coffee itself]]).
 
 ### If I've got extra money and want to upgrade, where should I spend it?
 
