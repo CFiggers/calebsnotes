@@ -7,6 +7,8 @@ updated: 2020-12-03
 
 **Knowledge Management** is the [[Activity]] of collecting, organizing, and storing [[Information]], in order to promote the [[Usefulness]] of that [[Information]]. **Knowledge Management** is a type of [[Knowledge Work]].
 
+In practice, it's difficult (maybe impossible?) to do **Knowledge Management** without doing [[Content Managment]] somewhere along the way.
+
 **Knowledge Management** is itself a broad category with many sub-domains:
 
 - [[Organizational Knowledge Management]]
