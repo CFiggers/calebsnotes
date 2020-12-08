@@ -20,10 +20,11 @@ I'm not an expert on making coffee, by any stretch. And I haven't spent the mone
 - [[Tailor Your Coffee Recipe to Your Brew Method]]
 - [[Find a Brew Method that You Like]]
 - [[What to Spend Money On for Better Coffee]]
+- [[Drink Your Coffee Black]]
 
 ### Topics in Coffee
 
-- [[The Basics of Coffee Extraction]]
+- [[Coffee Theory: The Basics of Coffee Extraction]]
 
 ---
 

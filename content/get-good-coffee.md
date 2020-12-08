@@ -1,6 +1,7 @@
 ---
 title: Get Good Coffee
 updated: 2020-12-08
+aliases: ["the coffee itself"]
 ---
 
 ### Why start with good coffee?
