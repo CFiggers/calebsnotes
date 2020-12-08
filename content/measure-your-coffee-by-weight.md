@@ -16,7 +16,7 @@ For the record, measuring by weight also varies between samples. But it tends to
 
 ### How do I measure coffee by weight?
 
-<!-- prettier-ignore --> You'll need a cheap counter-top kitchen scale. These are commonly available from big-box retailers or online for around $12, so it's not a huge investment.
+<!-- prettier-ignore --> You'll need a cheap counter-top kitchen scale. These are commonly available from big-box retailers or online for around $12, so it is not a huge investment.
 
 To use the scale, you'll put some kind of container on the scale first and zero out the scale. Then add coffee beans into the container until you get to the amount you need for your recipe. Because you told the scale to treat the weight of the container as "zero," the final measurement you get will be for just the coffee itself. Neat!
 
