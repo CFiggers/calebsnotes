@@ -19,7 +19,7 @@ Burr grinders are generally much more consistent than spinning-blade grinders. S
 
 ### Electric Burr Grinders
 
-**Electric burr grinders** are consistent and quick (generally speaking), but tend to be expensive (and sometimes really noisy). A quality electric burr grinder will _start_ around \$150 and go up from there, especially the more special features come baked in.
+<!-- prettier-ignore -->**Electric burr grinders** are consistent and quick (generally speaking), but tend to be expensive (and sometimes really noisy). A quality electric burr grinder will _start_ around $150 and go up from there, especially the more special features come baked in.
 
 ---
 

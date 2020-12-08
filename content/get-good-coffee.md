@@ -15,7 +15,7 @@ For the home coffee game, the most important factor is **age**. Get coffee beans
 
 ### Do I have to buy expensive specialty coffee?
 
-Price and tastiness don't correlate 1:1. Old, expensive specialty coffee is probably worse overall than fresh, inexpensive commodity coffee. But with that said, in general specialty sources, especially if they roast local to you, are more likely to be fresh (and more likely to explicitly date every bag, so you know for sure how old the beans are that you're working with). Value freshness over fancy packaging and authentic coffee shop vibes. But if you can afford it, and if you have a grinder nice enough to get the advantage from it, fancy specialty coffee is often (but not always) among the best-tasting options available.
+Price and tastiness don't correlate 1:1. Old, expensive specialty coffee is probably worse overall than fresh, inexpensive commodity coffee. But with that said, in general specialty sources, especially if they roast local to you, are more likely to be fresh (and more likely to explicitly date every bag, so you know for sure how old the beans are that you're working with). Value freshness over fancy packaging and "authentic" coffee shop vibes. But if you can afford it, and if you have a grinder nice enough to get the advantage from it, fancy specialty coffee is often (but not always) among the best-tasting options available.
 
 ### Are there any other options to know about?
 
