@@ -1,9 +1,9 @@
 ---
 title: How Do I Grind Coffee Beans Myself?
-updated: 2020-12-08
+updated: 2020-12-09
 ---
 
-The short answer is, you need a good **coffee grinder**. What makes a coffee grinder good? Basically three things:
+The short answer is, you need a good **coffee grinder**. What makes a coffee grinder good? Basically four things:
 
 - Consistent Grind
 - Precise Grind
@@ -36,4 +36,4 @@ In this case, "cool" means "low temperature" (although there are definitely some
 
 ---
 
-<sup><sub><font color="#a6a6a6">updated: 2020-12-08</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-12-09</font></sub></sup>
