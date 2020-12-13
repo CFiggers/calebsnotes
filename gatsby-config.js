@@ -26,12 +26,7 @@ module.exports = {
         icon: "static/CN_Favicon.png",
       },
     },
-    {
-      resolve: "gatsby-plugin-offline",
-      options: {
-        precachePages: [`/`],
-      },
-    },
+    "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
