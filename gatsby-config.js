@@ -15,16 +15,22 @@ module.exports = {
       options: {},
     },
     {
-        resolve: "gatsby-plugin-manifest",
-        options: {
-                name: "Caleb's Notes",
-                short_name: "Caleb's Notes",
-                start_url: "/",
-                background_color: "#18295a",
-                theme_color: "#8ce1fb",
-                display: "standalone",
-                icon: "static/CN_Favicon.png"
-            },
+      resolve: "gatsby-plugin-manifest",
+      options: {
+        name: "Caleb's Notes",
+        short_name: "Caleb's Notes",
+        start_url: "/",
+        background_color: "#18295a",
+        theme_color: "#8ce1fb",
+        display: "standalone",
+        icon: "static/CN_Favicon.png",
+      },
+    },
+    {
+      resolve: "gatsby-plugin-offline",
+      options: {
+        precachePages: [`/`],
+      },
     },
     {
       resolve: "gatsby-plugin-google-analytics",
